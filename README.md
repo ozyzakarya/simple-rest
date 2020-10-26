@@ -25,7 +25,7 @@ Getting up and running is as easy as 1, 2, 3.
 2.  Install your dependencies
 
     ```
-    cd path/to/rest-hellojasa; npm install
+    cd path/to/simple-rest; npm install
     ```
 
 3.  Configure things
